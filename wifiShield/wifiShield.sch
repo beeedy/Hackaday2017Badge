@@ -794,7 +794,7 @@ ESP8266 Support Circuitry
 Text Notes 7350 7550 0    98   ~ 0
 Hackaday 2017 Confrence Wifi + USB shield\n
 Text Notes 8150 7650 0    59   ~ 0
-10/14/17
+10/15/17
 Text Notes 10550 7650 0    59   ~ 0
-A
+B
 $EndSCHEMATC
